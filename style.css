@@ -13,4 +13,11 @@ body {
    font-weight: 300;
 }
 
+header {
+   background-image: url(./images/card1.jpg);
+   background-size: cover;
+   width: 100%;
+   min-height: 500px;
+ }
+
 /* add styles here */
