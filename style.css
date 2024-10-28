@@ -14,10 +14,25 @@ body {
 }
 
 header {
-   background-image: url(./images/card1.jpg);
+   background-image: url(./images/card3.jpg);
    background-size: cover;
    width: 100%;
    min-height: 500px;
  }
 
+ nav {
+
+   background-image: url(images/logo.svg);
+ 
+   background-size: 60px;
+ 
+   background-repeat: no-repeat;
+ 
+   background-position: 10px 5px;
+ 
+   padding: 20px;
+ 
+   height: 100px;
+ 
+ }
 /* add styles here */
